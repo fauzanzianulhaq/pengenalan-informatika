@@ -4,4 +4,8 @@ aplikasi pelaporan pengaduan masyarakat adalah untuk meningkatkan kualitas pelay
 Aplikasi ini bertujuan untuk masyarakat apabila mereka ada keluhan atau sejenisnya di desa atau di derah mereka sehingga biar tidak usah ke desanya langsung tapi lewat aplikasi pelaporan masyarakat ini 
 # 1.3 Branding
 Pekat (pengaduan masyarakat)
-# User Story
+## 2. User Story
+
+bla | bla | bla | bla
+---|---|---|---
+bla | bla | bla | ⭐⭐⭐⭐⭐
