@@ -31,6 +31,7 @@ erDiagram
         varchar foto
         enum status
     }
+    petugas ||--|{ tanggapan : menanggapi
     petugas {
         bigint id_petugas
         varchar nama_petugas
@@ -39,4 +40,11 @@ erDiagram
         varchar telp
         enum level
     }
+petugas {
+        bigint id_petugas
+        varchar nama_petugas
+        varchar username
+        varchar password
+        varchar telp
+        enum level
 ```
