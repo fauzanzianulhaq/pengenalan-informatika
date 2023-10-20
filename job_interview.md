@@ -14,8 +14,8 @@ masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya b
 
 ```mermaid
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    CUSTOMER {
+    masyarakat ||--o{ ORDER : places
+    masyarakat {
         string name
         string custNumber
         string sector
