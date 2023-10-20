@@ -4,9 +4,23 @@ aplikasi pelaporan pengaduan masyarakat adalah untuk meningkatkan kualitas pelay
 Aplikasi ini bertujuan untuk masyarakat apabila mereka ada keluhan atau sejenisnya di desa atau di derah mereka sehingga biar tidak usah ke desanya langsung tapi lewat aplikasi pelaporan masyarakat ini 
 # 1.3 Branding
 Pekat (pengaduan masyarakat)
-## 2. User Story
+# 2. User Story
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 masyarakat | membuat laporan pengaduan | bisa kejadian/keadaan di desanya | ⭐⭐⭐⭐⭐
 masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya buat | ⭐⭐⭐⭐
+# 3. Struktur Data
+erDiagram
+    CAR ||--o{ NAMED-DRIVER : allows
+    CAR {
+        string registrationNumber
+        string make
+        string model
+    }
+    PERSON ||--o{ NAMED-DRIVER : is
+    PERSON {
+        string firstName
+        string lastName
+        int age
+    }
