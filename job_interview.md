@@ -31,7 +31,7 @@ erDiagram
         varchar foto
         enum status
     }
-    LINE-ITEM {
+    LINE-I {
         string productCode
         int quantity
         float pricePerUnit
