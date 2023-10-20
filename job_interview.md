@@ -14,7 +14,7 @@ masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya b
 
 ```mermaid
 erDiagram
-    masyarakat ||--o{ ORDER : places
+    masyarakat ||--o{ pengaduan : membuat
     masyarakat {
         char nik
         varchar nama
@@ -22,10 +22,14 @@ erDiagram
         varchar password
         varchar telp
     }
-    ORDER ||--|{ LINE-ITEM : contains
-    ORDER {
-        int orderNumber
-        string deliveryAddress
+    pengaduan ||--|{ LINE-ITEM : contains
+    pengaduan {
+        bigint id_pengaduan
+        datetime tgl_pengaduan
+        char nik
+        text isi_laporan
+        varchar foto
+        enum status
     }
     LINE-ITEM {
         string productCode
