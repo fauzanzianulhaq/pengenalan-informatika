@@ -16,9 +16,11 @@ masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya b
 erDiagram
     masyarakat ||--o{ ORDER : places
     masyarakat {
-        string name
-        string custNumber
-        string sector
+        char nik
+        varchar nama
+        varchar username
+        varchar password
+        varchar telp
     }
     ORDER ||--|{ LINE-ITEM : contains
     ORDER {
