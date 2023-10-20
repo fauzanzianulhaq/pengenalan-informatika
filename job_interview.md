@@ -14,11 +14,13 @@ masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya b
 
 ```mermaid
 erDiagram
-    CAR ||--o{ NAMED-DRIVER : allows
-    CAR {
-        string registrationNumber
-        string make
-        string model
+    masyarakat ||--o{ 
+    masyarakat {
+        char nik
+        varchar nama
+        varchar username
+        varchar password
+        varchar telp
     }
     PERSON ||--o{ NAMED-DRIVER : is
     PERSON {
