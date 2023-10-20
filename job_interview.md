@@ -40,12 +40,11 @@ erDiagram
         varchar telp
         enum level
     }
-    petugas {
+    tanggapan {
+        bigint id_tanggapan
+        bigint id_pengaduan
+        datetime tgl_tanggapan
+        text tanggapan
         bigint id_petugas
-        varchar nama_petugas
-        varchar username
-        varchar password
-        varchar telp
-        enum level
 }
 ```
