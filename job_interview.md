@@ -14,18 +14,6 @@ masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya b
 
 ```mermaid
 erDiagram
-    masyarakat || --o{
-    masyarakat {
-        char nik
-        varchar nama
-        varchar username
-        varchar password
-        varchar telp
-    }
-    PERSON ||--o{ NAMED-DRIVER : is
-    PERSON {
-        string firstName
-        string lastName
-        int age
-    }
+    RUJAK ||--o{ SAYUR : tersusun
+    PEMBELI ||--|{ RUJAK : beli
 ```
