@@ -24,3 +24,10 @@ erDiagram
         string lastName
         int age
     }
+    Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+
+```mermaid
+erDiagram
+    RUJAK ||--o{ SAYUR : tersusun
+    PEMBELI ||--|{ RUJAK : beli
+```
