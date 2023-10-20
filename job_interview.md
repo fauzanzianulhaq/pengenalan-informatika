@@ -8,4 +8,4 @@ Pekat (pengaduan masyarakat)
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+masyarakat | membuat laporan pengaduan | bisa kejadian/keadaan di desanya | ⭐⭐⭐⭐⭐
