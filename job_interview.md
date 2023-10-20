@@ -48,4 +48,5 @@ petugas ||--|{ tanggapan : menanggapi
         varchar password
         varchar telp
         enum level
+}
 ```
