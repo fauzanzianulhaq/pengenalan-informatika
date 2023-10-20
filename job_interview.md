@@ -22,7 +22,7 @@ erDiagram
         varchar password
         varchar telp
     }
-    pengaduan ||--|{ LINE-ITEM : contains
+    pengaduan ||--|{ petugas : terkirim
     pengaduan {
         bigint id_pengaduan
         datetime tgl_pengaduan
