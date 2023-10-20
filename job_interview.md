@@ -14,7 +14,7 @@ masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya b
 
 ```mermaid
 erDiagram
-    masyarakat ||
+    masyarakat || --o{
     masyarakat {
         char nik
         varchar nama
