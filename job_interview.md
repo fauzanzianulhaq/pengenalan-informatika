@@ -31,9 +31,12 @@ erDiagram
         varchar foto
         enum status
     }
-    LINE-I {
-        string productCode
-        int quantity
-        float pricePerUnit
+    petugas {
+        bigint id_petugas
+        varchar nama_petugas
+        varchar username
+        varchar password
+        varchar telp
+        enum level
     }
 ```
