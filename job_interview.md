@@ -6,6 +6,6 @@ Aplikasi ini bertujuan untuk masyarakat apabila mereka ada keluhan atau sejenisn
 Pekat (pengaduan masyarakat)
 ## 2. User Story
 
-bla | bla | bla | bla
+sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
