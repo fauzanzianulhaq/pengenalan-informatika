@@ -11,6 +11,10 @@ sebagai | saya ingin bisa | sehingga | prioritas
 masyarakat | membuat laporan pengaduan | bisa kejadian/keadaan di desanya | ⭐⭐⭐⭐⭐
 masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya buat | ⭐⭐⭐⭐
 # 3. Struktur Data
+
+    Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+
+```mermaid
 erDiagram
     CAR ||--o{ NAMED-DRIVER : allows
     CAR {
@@ -24,10 +28,4 @@ erDiagram
         string lastName
         int age
     }
-    Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
 ```
