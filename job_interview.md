@@ -49,8 +49,6 @@ erDiagram
 }
 ```
 ## 4 Arsitektur Sistem
----
-title: Node with text
----
 flowchart LR
-    id1[This is the text in the box]
+%% this is a comment A -- text --> B{node}
+   A -- text --> B -- text2 --> C
