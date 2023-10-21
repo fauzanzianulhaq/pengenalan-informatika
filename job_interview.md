@@ -3,7 +3,16 @@ aplikasi pelaporan pengaduan masyarakat adalah untuk meningkatkan kualitas pelay
 # 1.2 Deskripsi
 Aplikasi ini bertujuan untuk masyarakat apabila mereka ada keluhan atau sejenisnya di desa atau di derah mereka sehingga biar tidak usah ke desanya langsung tapi lewat aplikasi pelaporan masyarakat ini 
 # 1.3 Branding
-Pekat (pengaduan masyarakat)
+- merk : Pekat (pengaduan masyarakat)
+- Tagline : "ada masalah di desa anda? laporkan saja disini"
+- campaign : Tempat untuk menyimpan keluhan atau saran dan inspirasi untuk kemajuan desa tersebut
+- Target user :
+   - umur 15+
+   - orang yang ingin melaporkan masalah atau pengaduan terkait dengan layanan publik, keamanan, lingkungan, atau masalah lainnya.
+- User experience theme:
+   - sederhana
+   - warna : dominan warna ungu dan warna putih
+
 # 2. User Story
 
 sebagai | saya ingin bisa | sehingga | prioritas
@@ -49,6 +58,4 @@ erDiagram
 }
 ```
 ## 4 Arsitektur Sistem
-flowchart LR
-%% this is a comment A -- text --> B{node}
-   A -- text --> B -- text2 --> C
+
