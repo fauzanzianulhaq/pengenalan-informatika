@@ -49,5 +49,8 @@ erDiagram
 }
 ```
 ## 4 Arsitektur Sistem
-flowchart TD
-    Start --> Stop
+---
+title: Node with text
+---
+flowchart LR
+    id1[This is the text in the box]
