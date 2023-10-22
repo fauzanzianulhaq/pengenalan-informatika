@@ -65,4 +65,17 @@ flowchart TD
 # 5. Teknologi, Library, dan Framework
 
 Untuk teknologi saya menggunakan Visual Studio Code Sedangkan dalam pemrograman saya menggunakan Framework Laravel
+# 6. Desain User Experience dan User Interface
+
+## Design UI & UX Menggunakan Figma
+### Link Figma
+> https://www.figma.com/file/yq2L28KRVuFQePBRRs0U4i/pekat?type=design&node-id=0%3A1&mode=design&t=HHtm69bUVSGFYLqu-1
+- **Landing Page**
+- ![landing](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/0df17eca-61e4-459e-96c2-23aaf277cb2f)
+- **Halaman Login Petugas**
+- ![masuk petugas](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/9bff21cf-91d4-4c88-92d8-330fb4027e0c)
+- ** Halaman Daftar**
+- ![daftar masyarakat](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/69ce0793-cd66-4bc6-9fee-4001ecf12aa8)
+
+
 
