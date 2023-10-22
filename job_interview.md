@@ -76,6 +76,25 @@ Untuk teknologi saya menggunakan Visual Studio Code Sedangkan dalam pemrograman 
 - ![masuk petugas](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/9bff21cf-91d4-4c88-92d8-330fb4027e0c)
 - ** Halaman Daftar**
 - ![daftar masyarakat](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/69ce0793-cd66-4bc6-9fee-4001ecf12aa8)
+## 7. Demonstrasi Video
+
+Link youtube nya
+
+## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
+
+## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+
+Link youtube nya di detik jawaban ini
 
 
 
