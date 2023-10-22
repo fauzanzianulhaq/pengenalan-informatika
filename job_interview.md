@@ -58,4 +58,8 @@ erDiagram
 }
 ```
 ## 4 Arsitektur Sistem
+```mermaid
+flowchart TD
+    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Javascript - Laravel] <--> id3[Web Server: Javascript - Laravel]  
+```
 
