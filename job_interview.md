@@ -7,7 +7,6 @@ Aplikasi ini bertujuan untuk masyarakat apabila mereka ada keluhan atau sejenisn
 - Tagline : "ada masalah di desa anda? laporkan saja disini"
 - campaign : Tempat untuk menyimpan keluhan atau saran dan inspirasi untuk kemajuan desa tersebut
 - Target user :
-   - umur 15+
    - orang yang ingin melaporkan masalah atau pengaduan terkait dengan layanan publik, keamanan, lingkungan, atau masalah lainnya.
 - User experience theme:
    - sederhana
