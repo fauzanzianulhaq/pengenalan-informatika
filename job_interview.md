@@ -8,6 +8,10 @@ Untuk pembuatan aplikasi ini saya menggunakan beberapa teknologi yang pernah say
     - Laravel adalah sebuah framework bahasa pemrograman php yang dimana si library atau si folder folder nya sudah disiapkan oleh laravel tersebut sehingga tidak membuat folder manual dan lebih efektif, Sedangkan bootstrap itu seperti css buat memperbagus tampilan dan di dalam bootsrap juga ada javascript seperti modal dan bootstrap ini ada yang online ada juga yang offline, kalau online kita tinggal salin link bootsrap nya sama link javascript nya yang ada di web getbootstrap.com sehingga jika kita gak menyalakan internet maka bootstrap nya tidak berjalan sedangkan offline kita mendownload dulu bootstrap nya terus kita pindahkan ke folder si laravel tersebut
 - 1.2.3 Figma
     - Figma adalah sebuah aplikasi yang dimana kita bisa membuat desain ux/ux untuk sebuah aplikasi atau pun perancangan dan yang lain nya, figma juga menyiapkan yang namanya community untuk sebagai referensi untuk membuat sebuah desain
+- 1.2.4 Visual Studio Code
+   - Visual studio code adalah sebuah aplikasi adalah sebuah software editor code yang dimana kita bisa membuat program di visul studio code tersebutdan bisa diinstal di berbagai desktop
+- 1.2.5 Linux
+  - Linux adalah sebuah OS open source yang cocok untuk programmer, kenapa saya pake linux untuk tugas pengenalan informatika ini, karena OS windows saya dikarenakan si port 80 nya eror terus jadi saya terpaksa membagi 2 penyimpanan yang 1 ke windows dan yang 1 lagi untuk linux
 # 1.3 Branding
 - merk : Pekat (pengaduan masyarakat)
 - Tagline : "ada masalah di desa anda? laporkan saja disini"
