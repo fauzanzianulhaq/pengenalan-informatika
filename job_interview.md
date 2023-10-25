@@ -4,7 +4,10 @@ saya kan rumah lumayan di pegunungan saat saya mau ke kiara payung lewat ke jala
 Untuk pembuatan aplikasi ini saya menggunakan beberapa teknologi yang pernah saya coba sehingga memudahkan saya untuk membuat aplikasi tersebut diantaranya: 
 - 1.2.1 MySQL 
    - Menurut pemahaman saya mysql adalah database yang dimana untuk menyimpan sebuah data dari aplikasi, mau aplikasi android maupun web. myqsl ini gratis kalau yang umum download xampp di xampp itu udah include sama mysql nya jadi tinggal di run apache sama mysql, cuman kan saya waktu pakai xampp si apache nya eror terus dari smk sampai masuk kuliah eror terus udah instal ulang windows tetep eror diluar nalar itu, terus ada namanya laragon, kalau laragon hampir sama kaya xampp cuman database nya belum ada atau mysql nya belum ada sehingga harus download dulu si databse nya namanya phpmyadmin jadi pas sudah download phpmyadmin kita setting sedikit di file laragon nya, sebenarnya sama sama aja cuman saya cukup menyesal download xampp jadi di windows gak bisa dipake lagi buat bikin aplikasi karena port 80 nya eror terus da saya juga udah ngulik sampai nanya ke yang udah expert tetep gak bisa jadi laptop saya terpaksa pakai dual OS yaitu linux ubuntu
-1.2.2 
+- 1.2.2 Laravel Dan Bootstrap
+    - Laravel adalah sebuah framework bahasa pemrograman php yang dimana si library atau si folder folder nya sudah disiapkan oleh laravel tersebut sehingga tidak membuat folder manual dan lebih efektif, Sedangkan bootstrap itu seperti css buat memperbagus tampilan dan di dalam bootsrap juga ada javascript seperti modal dan bootstrap ini ada yang online ada juga yang offline, kalau online kita tinggal salin link bootsrap nya sama link javascript nya yang ada di web getbootstrap.com sehingga jika kita gak menyalakan internet maka bootstrap nya tidak berjalan sedangkan offline kita mendownload dulu bootstrap nya terus kita pindahkan ke folder si laravel tersebut
+- 1.2.3 Figma
+    - Figma adalah sebuah aplikasi yang dimana kita bisa membuat desain ux/ux untuk sebuah aplikasi atau pun perancangan dan yang lain nya, figma juga menyiapkan yang namanya community untuk sebagai referensi untuk membuat sebuah desain
 # 1.3 Branding
 - merk : Pekat (pengaduan masyarakat)
 - Tagline : "ada masalah di desa anda? laporkan saja disini"
