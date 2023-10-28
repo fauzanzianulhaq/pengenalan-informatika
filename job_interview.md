@@ -23,7 +23,10 @@ Untuk pembuatan aplikasi ini saya menggunakan beberapa teknologi yang pernah say
    - sederhana
    - warna : dominan warna biru tua dan warna putih
    - Inspirasi Design :
-   - ![inspirasi](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/e5651fe6-d90f-4887-939a-52653d94e3d0)
+   - ![inspirasi1](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/537150a5-6904-43f5-aa1a-1c8eeaf4edb5)
+   - ![inspirasai2](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/fb58eb4d-c3d5-44c0-b95e-f79549cf7979)
+
+
 
 
 # 2. User Story
@@ -85,11 +88,14 @@ Untuk teknologi saya menggunakan Visual Studio Code Sedangkan dalam pemrograman 
 ### Link Figma
 > https://www.figma.com/file/yq2L28KRVuFQePBRRs0U4i/pekat?type=design&node-id=0%3A1&mode=design&t=HHtm69bUVSGFYLqu-1
 - **Landing Page**
-- ![landing](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/756c9d60-7e58-47ff-85de-f4930c4088d3)
+- ![landing](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/c8af817f-45c6-433c-a788-20a6529833dd)
+
 - **Halaman Login Petugas**
-- ![masuk admin](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/36e71f9d-ebe7-4dbd-b8c7-0d9f9fe5ac80)
+- ![masuk admin](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/af7492e6-bea2-4152-8c4c-53882d33bde2)
+
 - ** Halaman Daftar**
-- ![daftar masyarakat](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/4d083af4-1381-4197-b31d-ffd9cae14551)
+- ![daftar masyarakat](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/eeab86bd-d2df-4d06-a28f-05bb05df1905)
+
 ## 7. Demonstrasi Video
 
 Link youtube nya
