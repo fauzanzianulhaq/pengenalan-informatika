@@ -13,7 +13,7 @@ Untuk pembuatan aplikasi ini saya menggunakan beberapa teknologi yang pernah say
 - 1.2.5 Linux
   - Linux adalah sebuah OS open source yang cocok untuk programmer, kenapa saya pake linux untuk tugas pengenalan informatika ini, karena OS windows saya dikarenakan si port 80 nya eror terus jadi saya terpaksa membagi 2 penyimpanan yang 1 ke windows dan yang 1 lagi untuk linux
 # 1.3 Branding
-- merk : Pekat (pengaduan masyarakat)
+- merk : SMDC (Sahabat Masyarakat Desa Cileunyi)
 - Tagline : "ada masalah di desa anda? laporkan saja disini"
 - campaign : Tempat untuk menyimpan keluhan atau saran dan inspirasi untuk kemajuan desa tersebut
 - Target user :
@@ -21,7 +21,10 @@ Untuk pembuatan aplikasi ini saya menggunakan beberapa teknologi yang pernah say
    - orang yang ingin melaporkan masalah atau pengaduan terkait dengan layanan publik, keamanan, lingkungan, atau masalah lainnya.
 - User experience theme:
    - sederhana
-   - warna : dominan warna ungu dan warna putih
+   - warna : dominan warna biru tua dan warna putih
+   - Inspirasi Design :
+   - ![inspirasi](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/e5651fe6-d90f-4887-939a-52653d94e3d0)
+
 
 # 2. User Story
 
