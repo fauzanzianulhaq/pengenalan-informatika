@@ -85,7 +85,7 @@ Untuk teknologi saya menggunakan Visual Studio Code Sedangkan dalam pemrograman 
 ### Link Figma
 > https://www.figma.com/file/yq2L28KRVuFQePBRRs0U4i/pekat?type=design&node-id=0%3A1&mode=design&t=HHtm69bUVSGFYLqu-1
 - **Landing Page**
-- file:///home/fauzan/Downloads/landing.png
+- 
 
 - **Halaman Login Petugas**
 - ![masuk petugas](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/9bff21cf-91d4-4c88-92d8-330fb4027e0c)
