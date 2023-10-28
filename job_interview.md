@@ -17,6 +17,7 @@ Untuk pembuatan aplikasi ini saya menggunakan beberapa teknologi yang pernah say
 - Tagline : "ada masalah di desa anda? laporkan saja disini"
 - campaign : Tempat untuk menyimpan keluhan atau saran dan inspirasi untuk kemajuan desa tersebut
 - Target user :
+   - umur 15+
    - orang yang ingin melaporkan masalah atau pengaduan terkait dengan layanan publik, keamanan, lingkungan, atau masalah lainnya.
 - User experience theme:
    - sederhana
@@ -27,6 +28,7 @@ Untuk pembuatan aplikasi ini saya menggunakan beberapa teknologi yang pernah say
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 masyarakat | membuat laporan pengaduan | bisa kejadian/keadaan di desanya | ⭐⭐⭐⭐⭐
+petugas | menaggapi laporan pengaduan | bbisa ditindaklanjuti laporan tersebut | ⭐⭐⭐⭐⭐
 masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya buat | ⭐⭐⭐⭐
 # 3. Struktur Data
 
