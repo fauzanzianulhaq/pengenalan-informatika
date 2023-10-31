@@ -111,6 +111,31 @@ Link youtube nya di detik jawaban ini
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
 Link youtube nya di detik jawaban ini
+Proses Pembangunan Teknologi Informasi secara umum mengikuti Web Development Life Cycle :
+
+
+   - Analysis
+
+     Analisis adalah tahapan ketika kita mencoba menganalisa website seperti apa akan dibuat
+
+   -	Design
+
+    	Setelah itu saya akan mencoba mendesain sketsa dari website saya, kemudian didesain lebih jelas menggunakan Figma
+
+   -	Development
+     Setelah desain dan menentukan teknologi apa saja yang akan digunakan, kemudian saya akan mencoba mengaplikasikan desain tadi ke kodingan. Mulanya saya akan membuat struktur dasar menggunakan HTML, kemudian diberikan style menggunakan CSS, dan terakhir untuk fitut atau interaksi pengguna menggunakan JavaScript.
+
+   - Testing & Review
+
+     Setelah ketiga tahapan tadi, website yang sudah hamper selesai ditest terlebih dahulu, diperiksa semuanya dan dicari kesalahannya bila ada. Setelah itu saya mencoba meminta review ke orang lain untuk memberikan pendapat dan kritik mereka.
+
+   - Deployment
+
+     Setelah website saya dipastikan sempurna dan tidak ada kesalahan, juga sudah mendapatkan review yang baik, maka saya akan upload websitenya di akun github saya, yang kemudian akan saya hosting ke internet. Sehingga website saya bisa diakses melalui internet.
+
+   - Maintenance
+
+     Setelah berhasil mengupload websitenya, sekarang tinggal tahapan maintenance. Setelah mendeploy website untuk beberapa hari, saya akan mencoba cek apakah ada kerusakan atau pun kesalahan ketika mengakses website saya dari internet browser.
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
