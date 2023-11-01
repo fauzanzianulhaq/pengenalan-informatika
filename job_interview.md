@@ -101,7 +101,7 @@ Untuk teknologi saya menggunakan Visual Studio Code Sedangkan dalam pemrograman 
 
 ## 7. Demonstrasi Video
 
-Link youtube nya
+https://youtu.be/7x1lrNfr8CMhttps://youtu.be/7x1lrNfr8CM
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
