@@ -105,7 +105,7 @@ https://youtu.be/7x1lrNfr8CMhttps://youtu.be/7x1lrNfr8CM
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+https://youtu.be/fzXJZ3h-l2Y
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
