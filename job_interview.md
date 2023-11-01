@@ -34,8 +34,11 @@ Untuk pembuatan aplikasi ini saya menggunakan beberapa teknologi yang pernah say
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
 masyarakat | membuat laporan pengaduan | bisa kejadian/keadaan di desanya | ⭐⭐⭐⭐⭐
+administrator | membuat akun petugas | bisa menanggapi pengaduan dari masyarakat | ⭐⭐⭐⭐⭐
 petugas | menaggapi laporan pengaduan | bbisa ditindaklanjuti laporan tersebut | ⭐⭐⭐⭐⭐
 masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya buat | ⭐⭐⭐⭐
+masyarakat | melihat laporan akun yang lain | bisa melihat pengaduan lainnya | ⭐⭐⭐⭐
+administrator | mencetak laporan masyarakat | bisa menyimpan pengaudan masyarakat dalam bentuk fisik | ⭐⭐⭐⭐
 # 3. Struktur Data
 
 ```mermaid
