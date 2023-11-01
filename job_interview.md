@@ -110,7 +110,9 @@ https://youtu.be/fzXJZ3h-l2Y
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+https://drive.google.com/file/d/1wy7fZ5ES3fEra8-AlP6V7tEX35ZOX-bG/view?usp=sharing
+
+kenapa saya di google, soalnya pas saya meng upload vidio di youtube vidio nya terlalu panjang atau penyimpanan nya terlalu besar
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
