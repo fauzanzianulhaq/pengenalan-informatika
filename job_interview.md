@@ -1,6 +1,7 @@
 # 1.1 Latar Belakang
 saya kan rumah lumayan di pegunungan saat saya mau ke kiara payung lewat ke jalan pegunungan saya mulai berangkat dari rumah, dari rumah menuju ke kiara payung lancar lancar aja pas saya mulai dekat ke kiara payung saya menemukan jalan yang cukup jelek padahal di jalan sebelumnya bagus sedangkan jalan yang dekat ke pegunungan jelek kaya gak ke cek padahal ini emang jalan udah lama jelek jalannya masih belum ada perbaikan dari desa sebenarnya ide nya udah lama dari smk kalo saya bikin aplikasi berbasis web yang dimana masyarakat bisa mengadukan apapun yang ada di daerah mereka mau itu jalan rusak, kalo di daerah saya suka banyak yang membuang sampah sembarangan sehingga sampah ke jalan mengganggu pemotor atau terjadi penumpukan sampah di derah tersebut dan tidak di angkut angkut sampah nya sehingga menyebabkan bau yang mengganggu warga sekitar, dengan pembuatan aplikasi ini masyarakat bisa mengadukan keluhan atau keluhan yang ada di daerah tersebut sehingga lebih efektif dari pihak desa tersebut seperti di daerah tersebut gak ke cek atau gak tahu sehingga agar bisa ditindaklanjuti lebih cepat.
 # 1.2 Deskripsi
+aplikasi ini bertujuan untuk melaporkan masalah atau keluhan yang mereka alami kepada pihak yang berwenang. 
 
 # 1.3 Branding
 - merk : SMDC (Sahabat Masyarakat Desa Cileunyi)
