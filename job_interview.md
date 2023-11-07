@@ -29,7 +29,9 @@ petugas | menaggapi laporan pengaduan | bbisa ditindaklanjuti laporan tersebut |
 masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya buat | ⭐⭐⭐⭐
 masyarakat | melihat laporan akun yang lain | bisa melihat pengaduan lainnya | ⭐⭐⭐⭐
 administrator | mencetak laporan masyarakat | bisa menyimpan pengaudan masyarakat dalam bentuk fisik | ⭐⭐⭐⭐
-administrator | menlihat detail msyarakat | bisa melihat detail identitas masyarakat  | ⭐⭐⭐
+administrator | melihat detail msyarakat | bisa melihat detail identitas masyarakat  | ⭐⭐⭐
+administrator | login | bisa masuk ke dashboard admin  | ⭐
+masyarakat | login | bisa membuat laporan ke desa  | ⭐
 # 3. Struktur Data
 
 ```mermaid
