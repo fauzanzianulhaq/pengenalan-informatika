@@ -32,6 +32,10 @@ administrator | mencetak laporan masyarakat | bisa menyimpan pengaudan masyaraka
 administrator | melihat detail msyarakat | bisa melihat detail identitas masyarakat  | ⭐⭐⭐
 administrator | login | bisa masuk ke dashboard admin  | ⭐
 masyarakat | login | bisa membuat laporan ke desa  | ⭐
+petugas | login | bisa masuk ke halaman petugas | ⭐
+administrator | logout | bisa keluar dari halaman admin | ⭐
+masyarakat | logout | bisa keluar dari halaman masyarakat | ⭐
+petugas | logout | bisa keluar dari halaman petugas | ⭐
 # 3. Struktur Data
 
 ```mermaid
