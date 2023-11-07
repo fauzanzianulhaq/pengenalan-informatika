@@ -31,6 +31,7 @@ masyarakat | melihat laporan yang saya buat | bisa mengingat laporan yang saya b
 masyarakat | melihat laporan akun yang lain | bisa melihat pengaduan lainnya | ⭐⭐⭐⭐
 administrator | mencetak laporan masyarakat | bisa menyimpan pengaudan masyarakat dalam bentuk fisik | ⭐⭐⭐⭐
 administrator | melihat detail msyarakat | bisa melihat detail identitas masyarakat  | ⭐⭐⭐
+masyarakat | riwayat laporan orang lain | bisa melihat laporan orang lain | ⭐⭐
 administrator | login | bisa masuk ke dashboard admin  | ⭐
 masyarakat | login | bisa membuat laporan ke desa  | ⭐
 petugas | login | bisa masuk ke halaman petugas | ⭐
