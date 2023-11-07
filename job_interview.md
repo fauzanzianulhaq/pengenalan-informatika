@@ -97,7 +97,8 @@ Untuk pembuatan aplikasi ini saya menggunakan beberapa teknologi yang pernah say
 - ![masuk admin](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/af7492e6-bea2-4152-8c4c-53882d33bde2)
 
 - ** Halaman Daftar**
-- ![daftar masyarakat](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/eeab86bd-d2df-4d06-a28f-05bb05df1905)
+- ![daftar masyarakat (1)](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/2dda5539-7cc5-4910-8551-cbbce6f1cf66)
+
 
 ## 7. Demonstrasi Video
 
