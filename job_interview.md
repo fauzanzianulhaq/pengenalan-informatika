@@ -16,7 +16,7 @@ aplikasi ini bertujuan untuk melaporkan masalah atau keluhan yang mereka alami k
    - Inspirasi Design :
    - ![inspirasi1](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/537150a5-6904-43f5-aa1a-1c8eeaf4edb5)
    - ![inspirasai2](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/fb58eb4d-c3d5-44c0-b95e-f79549cf7979)
-   - ![Dashboard](https://github.com/fauzanzianulhaq/pengenalan-informatika/assets/115859323/4545bba3-f266-4c82-8b8f-8b3ab676f9cf)
+     
 
 
 
